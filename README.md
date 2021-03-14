@@ -4,4 +4,4 @@
 ## Disclaimer
 This repo is for educational purposes only!
 
-The purpose of is repo is to learn how Minecraft hacked clients work (and those h0t guis UwU).
+The purpose of this repo is to learn how Minecraft hacked clients work (and those h0t guis UwU).
